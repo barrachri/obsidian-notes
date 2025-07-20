@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "ab2b0ce1540ab61d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba245846810b24bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3edcd05f5fe99e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/Skin care routine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skin care routine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15968e35b411ce42",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bcdfe5ca8192a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206fbfeb3ac3de87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a570b7b7a6778a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b506a78e3121ccdc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82aedc1841eed752",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af97509212bbf38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f391b23e1c128995",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c5425ca787574c1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8e5585cda6f00f43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "730d43404851e906",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ai-e2e-platform-tasks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ai-e2e-platform-tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "206fbfeb3ac3de87",
+  "lastOpenFiles": [
+    "personal/Skin care routine.md",
+    "tx.md",
+    "ai-e2e-platform-tasks.md",
+    "development-tasks.md",
+    "AGENTS.md",
+    "biz/hospitality/Note after call with the Coffeee.md",
+    "biz/hospitality/Pasted image 20250719015519.jpg",
+    "biz/hospitality/Pasted image 20250719015519.png",
+    "biz/hospitality/Coffe P&L.md",
+    "personal/meal plan.md",
+    "personal/Journaling.md",
+    "RE/Italy/review-pavia.md",
+    "RE/Italy/review-abbiategrasso.md",
+    "biz/hospitality/hospt.md",
+    "RE/Italy/Buying checklist.md",
+    "biz/hospitality/results-o3-milan.md",
+    "biz/hospitality/Lupita review.md",
+    "biz/hospitality/results-o3.md",
+    "biz/hospitality/Comparing PIzza Vs Coffe.md",
+    "biz/hospitality/Location scouting.md",
+    "biz/hospitality/Pizzeria review.md",
+    "RE/Portugal/Strategy.md",
+    "RE/Portugal/Strategy rent to buy PT.md",
+    "RE/Portugal/Metrics.md",
+    "RE/Portugal/Buy-to-Rent Strategy PT.md",
+    "RE/Italy/Analysis.md",
+    "biz/Sales Tips.md",
+    "biz/Portgual.md",
+    "RE/Italy",
+    "RE/Portugal",
+    "biz/hospitality",
+    "biz/pizzeria",
+    "biz",
+    "personal",
+    "RE"
+  ]
+}
