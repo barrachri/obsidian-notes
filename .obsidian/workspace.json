@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Skin care routine.md",
+                "file": "journal/2025-08-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skin care routine"
+              "title": "2025-08-18"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/Skin care routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Skin care routine"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personal/Skin care routine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Skin care routine"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai-e2e-platform-tasks.md",
+                "file": "personal/Skin care routine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ai-e2e-platform-tasks"
+              "title": "Outline of Skin care routine"
             }
           }
         ]
@@ -166,42 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "206fbfeb3ac3de87",
+  "active": "3edcd05f5fe99e10",
   "lastOpenFiles": [
+    "personal/9-6-6 Schedule.md",
     "personal/Skin care routine.md",
-    "tx.md",
-    "ai-e2e-platform-tasks.md",
-    "development-tasks.md",
-    "AGENTS.md",
-    "biz/hospitality/Note after call with the Coffeee.md",
-    "biz/hospitality/Pasted image 20250719015519.jpg",
-    "biz/hospitality/Pasted image 20250719015519.png",
-    "biz/hospitality/Coffe P&L.md",
-    "personal/meal plan.md",
+    "journal/2025-08-18.md",
     "personal/Journaling.md",
-    "RE/Italy/review-pavia.md",
-    "RE/Italy/review-abbiategrasso.md",
-    "biz/hospitality/hospt.md",
-    "RE/Italy/Buying checklist.md",
-    "biz/hospitality/results-o3-milan.md",
-    "biz/hospitality/Lupita review.md",
-    "biz/hospitality/results-o3.md",
-    "biz/hospitality/Comparing PIzza Vs Coffe.md",
-    "biz/hospitality/Location scouting.md",
-    "biz/hospitality/Pizzeria review.md",
-    "RE/Portugal/Strategy.md",
-    "RE/Portugal/Strategy rent to buy PT.md",
-    "RE/Portugal/Metrics.md",
-    "RE/Portugal/Buy-to-Rent Strategy PT.md",
-    "RE/Italy/Analysis.md",
-    "biz/Sales Tips.md",
-    "biz/Portgual.md",
-    "RE/Italy",
-    "RE/Portugal",
-    "biz/hospitality",
-    "biz/pizzeria",
-    "biz",
-    "personal",
-    "RE"
+    "journal/template.md",
+    "personal/meal plan.md",
+    "personal/books/Flip_the_Script_Executive_Summary.md",
+    "Pasted image 20250727031544.png",
+    "README.md",
+    "Pasted image 20250727021318.png",
+    "zerobang.md",
+    "journal/2025-07-20.md",
+    "journal/2025-07-21.md",
+    "journal/2025-01-23.md",
+    "money/saas/log anal.md",
+    "personal/books/prompt.md.md",
+    "personal/books/No Bullsh*t Strategy_Executive_Summary.md",
+    "personal/books/Get_a_Grip_Executive_Summary.md",
+    "RE/Italy/Italy.md",
+    "personal/travel_skincare_routine.md",
+    "personal/books/No Bullsh*t Strategy — Executive Summary.md",
+    "personal/books/Quit_Executive_Summary_Founders.md",
+    "personal/books/Quit_Executive_Summary.md",
+    "personal/books/Quit.md",
+    "personal/books/No Bullsh*t Strategy.md",
+    "personal/books",
+    "money/hospitality/kombucha/README.md.md",
+    "money/hospitality/coffee/Coffee shop review.md",
+    "money/hospitality/coffee/Coffee shop review (Milan updated).md",
+    "money/hospitality/coffee/Pasted image 20250719015519.jpg",
+    "money/hospitality/kombucha",
+    "money/saas/dearmachines copy",
+    "journal",
+    "money/saas/material/Screenshot 2025-04-24 at 23.57.01.png",
+    "money/saas/material/Screenshot 2025-04-24 at 23.55.49.png",
+    "money/saas/material/Screenshot 2025-03-27 at 18.13.19.png",
+    "money/saas/material/Screenshot 2025-03-28 at 00.21.29.png",
+    "money/saas/material/Screenshot 2025-01-31 at 14.33.59.png",
+    "money/saas/material/Screenshot 2025-01-19 at 17.39.53.png",
+    "money/saas/material/Screenshot 2025-01-19 at 17.39.48.png",
+    "money/saas/material",
+    "money/hospitality/photos/IMG_1613.HEIC",
+    "money/hospitality/photos/IMG_1616.HEIC",
+    "money/hospitality/photos/IMG_1617.HEIC",
+    "money/hospitality/photos/IMG_1618.HEIC",
+    "money/hospitality/photos/IMG_1620.HEIC"
   ]
 }
